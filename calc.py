@@ -1,2 +1,2 @@
 def multiply(x,y):
-        return x
+        return x *y
